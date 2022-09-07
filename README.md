@@ -99,7 +99,7 @@ At this time, there are no known bugs.
 
 #Authors
 ---
-[Thomas MWangi](https://github.com/MwangiN)
+[Thomas Mwangi](https://github.com/MwangiN)
 -
 [Antonia Wakaba](https://github.com/Techie-tonia)
 -
